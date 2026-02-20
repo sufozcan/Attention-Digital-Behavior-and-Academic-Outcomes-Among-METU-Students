@@ -1,6 +1,6 @@
 # Attention, Digital Behavior, and Academic Outcomes Among METU Students
 
-A comprehensive statistical research project investigating the intricate relationships between digital habits, sustained attention, and academic performance among university students.
+A comprehensive statistical research project investigating the relationships between digital habits, sustained attention, and academic performance among university students.
 
 ## Project Overview
 Developed as the final project for the **STAT 365 - Sampling and Survey Techniques** course at **Middle East Technical University (METU)**, this study explores how digital behaviors—specifically smartphone usage, social media engagement, and multitasking—correlate with students' focus abilities and academic success (CGPA).
